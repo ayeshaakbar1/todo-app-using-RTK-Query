@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: linear-gradient(to top, #096192 0%, #ccffff 100%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
